@@ -10,14 +10,17 @@ Any use of the dataset must include a citation to the dataset and the paper.
 This dataset contains 79 features listed as follows:
 
 --------------------------------------------------------------
-Feature Name				Description
-Dst Port			Destination Port (Src/Dst IP and Src Port were removed from the dataset for privacy purposes)
-Protocol			The network protocol number (based on IANA Protocol Numbers https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml)
-Flow duration			Duration of the flow in Microsecond
-total Fwd Packet		Total packets in the forward direction
-total Bwd packets		Total packets in the backward direction
-total Length of Fwd Packet	Total size of packet in forward direction
-total Length of Bwd Packet	Total size of packet in backward direction
+| Feature Name               | Description                                                                                                                              |
+|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Dst Port                   | Destination Port<br>(Src/Dst IP and Src Port were removed from the dataset for privacy purposes)                                         |
+| Protocol                   | The network protocol number<br>(based on IANA Protocol Numbers https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml) |
+| Flow duration              | Duration of the flow in Microsecond                                                                                                      |
+| total Fwd Packet           | Total packets in the forward direction                                                                                                   |
+| total Bwd packets          | Total packets in the backward direction                                                                                                  |
+| total Length of Fwd Packet | Total size of packet in forward direction                                                                                                |
+| total Length of Bwd Packet | Total size of packet in backward direction                                                                                               |
+
+
 Fwd Packet Length Min 		Minimum size of packet in forward direction
 Fwd Packet Length Max 		Maximum size of packet in forward direction
 Fwd Packet Length Mean		Mean size of packet in forward direction

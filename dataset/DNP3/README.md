@@ -12,7 +12,7 @@ This dataset was part of the analysis used for the paper:
 Any use of the dataset must include a citation to the dataset and the paper.
 
 
-## Iowa State DER-DNP3 2022 dataset
+## Iowa State University DER-DNP3 2022 Dataset
 
 This dataset contains 79 features listed as follows:
 

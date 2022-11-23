@@ -1,3 +1,5 @@
+# Iowa State University DER-DNP3 2022 Dataset
+
 ## Introduction
 
 **This dataset *“Iowa_State_University_DER-DNP3_2022”* has been published by Iowa State University as part of the research grant supported by the U.S. Department of Energy (DOE) Solar Energy Technology Office (SETO), Award # DE-EE0008773”.**
@@ -9,12 +11,11 @@ This dataset was part of the analysis used for the paper:
 
 ["ML-based Anomaly Detection System for DER DNP3 Communication in Smart Grid," by Moataz Abdelkhalek and Manimaran Govindarasu, published in 2022 IEEE International Conference on Cyber Security and Resilience (CSR), 2022, pp. 209-214, doi: 10.1109/CSR54599.2022.9850313.](https://ieeexplore.ieee.org/document/9850313)
 
-Any use of the dataset must include a citation to the dataset and the paper.
+
+:warning: **Any use of the dataset must include a citation to the dataset and the paper.**
 
 
-## Iowa State University DER-DNP3 2022 Dataset
-
-# Dataset Features
+## Dataset Features
 This dataset contains 79 features listed as follows:
 
 --------------------------------------------------------------
@@ -101,7 +102,7 @@ This dataset contains 79 features listed as follows:
 | Idle Std                   | Standard deviation time a flow was idle before becoming active                                                                               |
 
 
-# Dataset Labels
+## Dataset Labels
 This dataset contains 6 different labels divided as 5 attacks and 1 normal data label, listed as follows:
 
 | Data Label  | Description                                                                                                                                                                                                      |

@@ -1,11 +1,18 @@
+## Introduction
+
+**This dataset *“Iowa State DER-DNP3 2022”* has been published by Iowa State University as part of the research grant supported by the U.S. Department of Energy (DOE) Solar Energy Technology Office (SETO), Award # DE-EE0008773”.**
+
+
 This is a sample DNP3 dataset for DER networks in the smart grid that can be used for anomaly detection using machine learning.
 
 This dataset was part of the analysis used for the paper:
 
-"ML-based Anomaly Detection System for DER DNP3 Communication in Smart Grid," by Moataz Abdelkhalek and Manimaran Govindarasu, published in 2022 IEEE International Conference on Cyber Security and Resilience (CSR), 2022, pp. 209-214, doi: 10.1109/CSR54599.2022.9850313.
+["ML-based Anomaly Detection System for DER DNP3 Communication in Smart Grid," by Moataz Abdelkhalek and Manimaran Govindarasu, published in 2022 IEEE International Conference on Cyber Security and Resilience (CSR), 2022, pp. 209-214, doi: 10.1109/CSR54599.2022.9850313.](https://ieeexplore.ieee.org/document/9817481)
 
 Any use of the dataset must include a citation to the dataset and the paper.
 
+
+## Iowa State DER-DNP3 2022 dataset
 
 This dataset contains 79 features listed as follows:
 

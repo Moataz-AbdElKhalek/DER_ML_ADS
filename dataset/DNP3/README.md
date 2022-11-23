@@ -14,6 +14,7 @@ Any use of the dataset must include a citation to the dataset and the paper.
 
 ## Iowa State University DER-DNP3 2022 Dataset
 
+# Dataset Features
 This dataset contains 79 features listed as follows:
 
 --------------------------------------------------------------
@@ -98,3 +99,16 @@ This dataset contains 79 features listed as follows:
 | Idle Mean                  | Mean time a flow was idle before becoming active                                                                                             |
 | Idle Max                   | Maximum time a flow was idle before becoming active                                                                                          |
 | Idle Std                   | Standard deviation time a flow was idle before becoming active                                                                               |
+
+
+# Dataset Labels
+This dataset contains 6 different labels divided as 5 attacks and 1 normal data label, listed as follows:
+
+| Data Label  | Description                                                                                                                                                                                                      |
+|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Benign      | Normal IT/OT traffic                                                                                                                                                                                             |
+| DOS         | Denial-of-Service DoS IT/OT attacks, e.g. SYN flood, DNP3 flood, etc.                                                                                                                                            |
+| Scanning    | Reconnaissance and port scanning IT/OT attacks, e.g. ICMP sweep, Nmap port scanning and service attacks, etc.                                                                                                    |
+| RA          | Unauthorized automated attacks, e.g. brute force, malware, etc.                                                                                                                                                  |
+| RT          | Unauthorized targeted hacking attacks, e.g. remote exploitation.                                                                                                                                                 |
+| DER Stealth | DER DNP3 stealth attacks, e.g. replay attacks, Man-in-the-Middle attacks, control function spoofing attacks (warm restart, cold restart, IIN errors, etc.), tripping and changing devices behavior attacks, etc. |

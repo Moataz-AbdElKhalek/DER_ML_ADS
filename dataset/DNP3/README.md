@@ -11,9 +11,7 @@ This dataset was part of the analysis used for the paper:
 
 ["ML-based Anomaly Detection System for DER DNP3 Communication in Smart Grid," by Moataz Abdelkhalek and Manimaran Govindarasu, published in 2022 IEEE International Conference on Cyber Security and Resilience (CSR), 2022, pp. 209-214, doi: 10.1109/CSR54599.2022.9850313.](https://ieeexplore.ieee.org/document/9850313)
 
-
-> **Dataset Usage**
-> *Any use of the dataset must include a citation to the dataset and the paper.*
+>:warning: **Dataset Usage Note:** *Any use of the dataset must include a citation to the dataset and the paper.*
 
 
 ## Dataset Features
